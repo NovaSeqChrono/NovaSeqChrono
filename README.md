@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Emmanuel (alias NovaSeqChrono)
-- 👀 I’m interested in 
-- 🌱 I’m currently learning the application of Bioinformatics in healthcare
-- 💞️ I’m looking to collaborate on biomarker discovery
+- 👀 Interests: Exploring the intersection of bioinformatics and healthcare to advance patient treatment.
+- 🌱 Currently Learning: Bioinformatics applications in healthcare, with a focus on biomarker discovery.
+- 💞️ Looking to Collaborate On: Projects involving biomarker discovery, personalized medicine, and genomic data analysis.
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy playing video games, chess and watching documentaries
 
 <!---
